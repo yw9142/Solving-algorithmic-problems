@@ -56,27 +56,27 @@ include CMakeFiles/BOJ__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/BOJ__.dir/flags.make
 
-CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.obj: CMakeFiles/BOJ__.dir/flags.make
-CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.obj: ../Step2\ -\ if\ statement/BOJ2884.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BOJ__.dir\Step2_-_if_statement\BOJ2884.cpp.obj -c "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step2 - if statement\BOJ2884.cpp"
+CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.obj: CMakeFiles/BOJ__.dir/flags.make
+CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.obj: ../Step3\ -\ for\ statement/BOJ10871.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BOJ__.dir\Step3_-_for_statement\BOJ10871.cpp.obj -c "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step3 - for statement\BOJ10871.cpp"
 
-CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step2 - if statement\BOJ2884.cpp" > CMakeFiles\BOJ__.dir\Step2_-_if_statement\BOJ2884.cpp.i
+CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step3 - for statement\BOJ10871.cpp" > CMakeFiles\BOJ__.dir\Step3_-_for_statement\BOJ10871.cpp.i
 
-CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step2 - if statement\BOJ2884.cpp" -o CMakeFiles\BOJ__.dir\Step2_-_if_statement\BOJ2884.cpp.s
+CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step3 - for statement\BOJ10871.cpp" -o CMakeFiles\BOJ__.dir\Step3_-_for_statement\BOJ10871.cpp.s
 
 # Object files for target BOJ__
 BOJ___OBJECTS = \
-"CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.obj"
+"CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.obj"
 
 # External object files for target BOJ__
 BOJ___EXTERNAL_OBJECTS =
 
-BOJ__.exe: CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.obj
+BOJ__.exe: CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.obj
 BOJ__.exe: CMakeFiles/BOJ__.dir/build.make
 BOJ__.exe: CMakeFiles/BOJ__.dir/linklibs.rsp
 BOJ__.exe: CMakeFiles/BOJ__.dir/objects1.rsp

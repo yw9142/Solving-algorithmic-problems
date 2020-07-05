@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/pyw08/Desktop/BOJ step-by-step problem solving/Step2 - if statement/BOJ2884.cpp">
+		<Unit filename="C:/Users/pyw08/Desktop/BOJ step-by-step problem solving/Step3 - for statement/BOJ10871.cpp">
 			<Option target="BOJ__"/>
 		</Unit>
 		<Unit filename="C:/Users/pyw08/Desktop/BOJ step-by-step problem solving/CMakeLists.txt">

@@ -122,32 +122,32 @@ BOJ__/fast:
 	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/build
 .PHONY : BOJ__/fast
 
-Step2_-_if_statement/BOJ2884.obj: Step2_-_if_statement/BOJ2884.cpp.obj
+Step3_-_for_statement/BOJ10871.obj: Step3_-_for_statement/BOJ10871.cpp.obj
 
-.PHONY : Step2_-_if_statement/BOJ2884.obj
+.PHONY : Step3_-_for_statement/BOJ10871.obj
 
 # target to build an object file
-Step2_-_if_statement/BOJ2884.cpp.obj:
-	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.obj
-.PHONY : Step2_-_if_statement/BOJ2884.cpp.obj
+Step3_-_for_statement/BOJ10871.cpp.obj:
+	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.obj
+.PHONY : Step3_-_for_statement/BOJ10871.cpp.obj
 
-Step2_-_if_statement/BOJ2884.i: Step2_-_if_statement/BOJ2884.cpp.i
+Step3_-_for_statement/BOJ10871.i: Step3_-_for_statement/BOJ10871.cpp.i
 
-.PHONY : Step2_-_if_statement/BOJ2884.i
+.PHONY : Step3_-_for_statement/BOJ10871.i
 
 # target to preprocess a source file
-Step2_-_if_statement/BOJ2884.cpp.i:
-	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.i
-.PHONY : Step2_-_if_statement/BOJ2884.cpp.i
+Step3_-_for_statement/BOJ10871.cpp.i:
+	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.i
+.PHONY : Step3_-_for_statement/BOJ10871.cpp.i
 
-Step2_-_if_statement/BOJ2884.s: Step2_-_if_statement/BOJ2884.cpp.s
+Step3_-_for_statement/BOJ10871.s: Step3_-_for_statement/BOJ10871.cpp.s
 
-.PHONY : Step2_-_if_statement/BOJ2884.s
+.PHONY : Step3_-_for_statement/BOJ10871.s
 
 # target to generate assembly for a file
-Step2_-_if_statement/BOJ2884.cpp.s:
-	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.s
-.PHONY : Step2_-_if_statement/BOJ2884.cpp.s
+Step3_-_for_statement/BOJ10871.cpp.s:
+	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.s
+.PHONY : Step3_-_for_statement/BOJ10871.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... BOJ__
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Step2_-_if_statement/BOJ2884.obj
-	@echo ... Step2_-_if_statement/BOJ2884.i
-	@echo ... Step2_-_if_statement/BOJ2884.s
+	@echo ... Step3_-_for_statement/BOJ10871.obj
+	@echo ... Step3_-_for_statement/BOJ10871.i
+	@echo ... Step3_-_for_statement/BOJ10871.s
 .PHONY : help
 
 

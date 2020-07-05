@@ -2,7 +2,7 @@ file(REMOVE_RECURSE
   "BOJ__.exe"
   "BOJ__.exe.manifest"
   "BOJ__.pdb"
-  "CMakeFiles/BOJ__.dir/Step2_-_if_statement/BOJ2884.cpp.obj"
+  "CMakeFiles/BOJ__.dir/Step3_-_for_statement/BOJ10871.cpp.obj"
   "libBOJ__.dll.a"
 )
 

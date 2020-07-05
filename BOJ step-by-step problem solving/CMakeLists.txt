@@ -21,4 +21,16 @@ add_executable(BOJ__
 #        "Step2 - if statement/BOJ2753.cpp"
 #        "Step2 - if statement/BOJ14681.cpp"
 #        "Step2 - if statement/BOJ2884.cpp"
+
+#        "Step3 - for statement/BOJ2739.cpp"
+#        "Step3 - for statement/BOJ10950.cpp"
+#        "Step3 - for statement/BOJ8393.cpp"
+#        "Step3 - for statement/BOJ15552.cpp"
+#        "Step3 - for statement/BOJ2741.cpp"
+#        "Step3 - for statement/BOJ2742.cpp"
+#        "Step3 - for statement/BOJ11021.cpp"
+#        "Step3 - for statement/BOJ11022.cpp"
+#        "Step3 - for statement/BOJ2438.cpp"
+#        "Step3 - for statement/BOJ2439.cpp"
+#        "Step3 - for statement/BOJ10871.cpp"
         )
