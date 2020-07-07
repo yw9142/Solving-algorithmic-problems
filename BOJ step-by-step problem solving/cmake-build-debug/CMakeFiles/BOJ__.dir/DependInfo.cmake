@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/pyw08/Desktop/BOJ step-by-step problem solving/Step3 - while statement/BOJ1110.cpp" "C:/Users/pyw08/Desktop/BOJ step-by-step problem solving/cmake-build-debug/CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.obj"
+  "C:/Users/pyw08/Desktop/BOJ step-by-step problem solving/Step5 - Lab 1/BOJ10996.cpp" "C:/Users/pyw08/Desktop/BOJ step-by-step problem solving/cmake-build-debug/CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

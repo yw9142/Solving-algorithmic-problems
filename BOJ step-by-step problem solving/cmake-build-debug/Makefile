@@ -122,32 +122,32 @@ BOJ__/fast:
 	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/build
 .PHONY : BOJ__/fast
 
-Step3_-_while_statement/BOJ1110.obj: Step3_-_while_statement/BOJ1110.cpp.obj
+Step5_-_Lab_1/BOJ10996.obj: Step5_-_Lab_1/BOJ10996.cpp.obj
 
-.PHONY : Step3_-_while_statement/BOJ1110.obj
+.PHONY : Step5_-_Lab_1/BOJ10996.obj
 
 # target to build an object file
-Step3_-_while_statement/BOJ1110.cpp.obj:
-	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.obj
-.PHONY : Step3_-_while_statement/BOJ1110.cpp.obj
+Step5_-_Lab_1/BOJ10996.cpp.obj:
+	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.obj
+.PHONY : Step5_-_Lab_1/BOJ10996.cpp.obj
 
-Step3_-_while_statement/BOJ1110.i: Step3_-_while_statement/BOJ1110.cpp.i
+Step5_-_Lab_1/BOJ10996.i: Step5_-_Lab_1/BOJ10996.cpp.i
 
-.PHONY : Step3_-_while_statement/BOJ1110.i
+.PHONY : Step5_-_Lab_1/BOJ10996.i
 
 # target to preprocess a source file
-Step3_-_while_statement/BOJ1110.cpp.i:
-	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.i
-.PHONY : Step3_-_while_statement/BOJ1110.cpp.i
+Step5_-_Lab_1/BOJ10996.cpp.i:
+	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.i
+.PHONY : Step5_-_Lab_1/BOJ10996.cpp.i
 
-Step3_-_while_statement/BOJ1110.s: Step3_-_while_statement/BOJ1110.cpp.s
+Step5_-_Lab_1/BOJ10996.s: Step5_-_Lab_1/BOJ10996.cpp.s
 
-.PHONY : Step3_-_while_statement/BOJ1110.s
+.PHONY : Step5_-_Lab_1/BOJ10996.s
 
 # target to generate assembly for a file
-Step3_-_while_statement/BOJ1110.cpp.s:
-	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.s
-.PHONY : Step3_-_while_statement/BOJ1110.cpp.s
+Step5_-_Lab_1/BOJ10996.cpp.s:
+	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.s
+.PHONY : Step5_-_Lab_1/BOJ10996.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... BOJ__
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Step3_-_while_statement/BOJ1110.obj
-	@echo ... Step3_-_while_statement/BOJ1110.i
-	@echo ... Step3_-_while_statement/BOJ1110.s
+	@echo ... Step5_-_Lab_1/BOJ10996.obj
+	@echo ... Step5_-_Lab_1/BOJ10996.i
+	@echo ... Step5_-_Lab_1/BOJ10996.s
 .PHONY : help
 
 

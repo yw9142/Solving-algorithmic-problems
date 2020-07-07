@@ -33,7 +33,15 @@ add_executable(BOJ__
 #        "Step3 - for statement/BOJ2438.cpp"
 #        "Step3 - for statement/BOJ2439.cpp"
 #        "Step3 - for statement/BOJ10871.cpp"
-#        "Step3 - while statement/BOJ10952.cpp"
-#        "Step3 - while statement/BOJ10951.cpp"
-        "Step3 - while statement/BOJ1110.cpp"
+
+#        "Step4 - while statement/BOJ10952.cpp"
+#        "Step4 - while statement/BOJ10951.cpp"
+#        "Step4 - while statement/BOJ1110.cpp"
+
+#        "Step5 - Lab 1/BOJ10039.cpp"
+#        "Step5 - Lab 1/BOJ5543.cpp"
+#        "Step5 - Lab 1/BOJ10817.cpp"
+#        "Step5 - Lab 1/BOJ2523.cpp"
+#        "Step5 - Lab 1/BOJ2446.cpp"
+#        "Step5 - Lab 1/BOJ10996.cpp"
         )

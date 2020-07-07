@@ -56,27 +56,27 @@ include CMakeFiles/BOJ__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/BOJ__.dir/flags.make
 
-CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.obj: CMakeFiles/BOJ__.dir/flags.make
-CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.obj: ../Step3\ -\ while\ statement/BOJ1110.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BOJ__.dir\Step3_-_while_statement\BOJ1110.cpp.obj -c "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step3 - while statement\BOJ1110.cpp"
+CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.obj: CMakeFiles/BOJ__.dir/flags.make
+CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.obj: ../Step5\ -\ Lab\ 1/BOJ10996.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BOJ__.dir\Step5_-_Lab_1\BOJ10996.cpp.obj -c "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step5 - Lab 1\BOJ10996.cpp"
 
-CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step3 - while statement\BOJ1110.cpp" > CMakeFiles\BOJ__.dir\Step3_-_while_statement\BOJ1110.cpp.i
+CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step5 - Lab 1\BOJ10996.cpp" > CMakeFiles\BOJ__.dir\Step5_-_Lab_1\BOJ10996.cpp.i
 
-CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step3 - while statement\BOJ1110.cpp" -o CMakeFiles\BOJ__.dir\Step3_-_while_statement\BOJ1110.cpp.s
+CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\pyw08\Desktop\BOJ step-by-step problem solving\Step5 - Lab 1\BOJ10996.cpp" -o CMakeFiles\BOJ__.dir\Step5_-_Lab_1\BOJ10996.cpp.s
 
 # Object files for target BOJ__
 BOJ___OBJECTS = \
-"CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.obj"
+"CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.obj"
 
 # External object files for target BOJ__
 BOJ___EXTERNAL_OBJECTS =
 
-BOJ__.exe: CMakeFiles/BOJ__.dir/Step3_-_while_statement/BOJ1110.cpp.obj
+BOJ__.exe: CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.obj
 BOJ__.exe: CMakeFiles/BOJ__.dir/build.make
 BOJ__.exe: CMakeFiles/BOJ__.dir/linklibs.rsp
 BOJ__.exe: CMakeFiles/BOJ__.dir/objects1.rsp
