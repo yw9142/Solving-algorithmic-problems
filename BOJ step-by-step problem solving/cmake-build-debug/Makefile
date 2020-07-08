@@ -122,32 +122,32 @@ BOJ__/fast:
 	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/build
 .PHONY : BOJ__/fast
 
-Step5_-_Lab_1/BOJ10996.obj: Step5_-_Lab_1/BOJ10996.cpp.obj
+Step6_-_1-Dimensional_Array/BOJ8958.obj: Step6_-_1-Dimensional_Array/BOJ8958.cpp.obj
 
-.PHONY : Step5_-_Lab_1/BOJ10996.obj
+.PHONY : Step6_-_1-Dimensional_Array/BOJ8958.obj
 
 # target to build an object file
-Step5_-_Lab_1/BOJ10996.cpp.obj:
-	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.obj
-.PHONY : Step5_-_Lab_1/BOJ10996.cpp.obj
+Step6_-_1-Dimensional_Array/BOJ8958.cpp.obj:
+	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step6_-_1-Dimensional_Array/BOJ8958.cpp.obj
+.PHONY : Step6_-_1-Dimensional_Array/BOJ8958.cpp.obj
 
-Step5_-_Lab_1/BOJ10996.i: Step5_-_Lab_1/BOJ10996.cpp.i
+Step6_-_1-Dimensional_Array/BOJ8958.i: Step6_-_1-Dimensional_Array/BOJ8958.cpp.i
 
-.PHONY : Step5_-_Lab_1/BOJ10996.i
+.PHONY : Step6_-_1-Dimensional_Array/BOJ8958.i
 
 # target to preprocess a source file
-Step5_-_Lab_1/BOJ10996.cpp.i:
-	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.i
-.PHONY : Step5_-_Lab_1/BOJ10996.cpp.i
+Step6_-_1-Dimensional_Array/BOJ8958.cpp.i:
+	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step6_-_1-Dimensional_Array/BOJ8958.cpp.i
+.PHONY : Step6_-_1-Dimensional_Array/BOJ8958.cpp.i
 
-Step5_-_Lab_1/BOJ10996.s: Step5_-_Lab_1/BOJ10996.cpp.s
+Step6_-_1-Dimensional_Array/BOJ8958.s: Step6_-_1-Dimensional_Array/BOJ8958.cpp.s
 
-.PHONY : Step5_-_Lab_1/BOJ10996.s
+.PHONY : Step6_-_1-Dimensional_Array/BOJ8958.s
 
 # target to generate assembly for a file
-Step5_-_Lab_1/BOJ10996.cpp.s:
-	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step5_-_Lab_1/BOJ10996.cpp.s
-.PHONY : Step5_-_Lab_1/BOJ10996.cpp.s
+Step6_-_1-Dimensional_Array/BOJ8958.cpp.s:
+	$(MAKE) -f CMakeFiles\BOJ__.dir\build.make CMakeFiles/BOJ__.dir/Step6_-_1-Dimensional_Array/BOJ8958.cpp.s
+.PHONY : Step6_-_1-Dimensional_Array/BOJ8958.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... BOJ__
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Step5_-_Lab_1/BOJ10996.obj
-	@echo ... Step5_-_Lab_1/BOJ10996.i
-	@echo ... Step5_-_Lab_1/BOJ10996.s
+	@echo ... Step6_-_1-Dimensional_Array/BOJ8958.obj
+	@echo ... Step6_-_1-Dimensional_Array/BOJ8958.i
+	@echo ... Step6_-_1-Dimensional_Array/BOJ8958.s
 .PHONY : help
 
 

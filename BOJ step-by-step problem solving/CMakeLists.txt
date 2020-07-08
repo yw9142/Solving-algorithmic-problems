@@ -44,4 +44,12 @@ add_executable(BOJ__
 #        "Step5 - Lab 1/BOJ2523.cpp"
 #        "Step5 - Lab 1/BOJ2446.cpp"
 #        "Step5 - Lab 1/BOJ10996.cpp"
+
+#        "Step6 - 1-Dimensional Array/BOJ10818.cpp"
+#        "Step6 - 1-Dimensional Array/BOJ2562.cpp"
+#        "Step6 - 1-Dimensional Array/BOJ2577.cpp"
+#        "Step6 - 1-Dimensional Array/BOJ3052.cpp"
+#        "Step6 - 1-Dimensional Array/BOJ1546.cpp"
+#        "Step6 - 1-Dimensional Array/BOJ8958.cpp"
+#        "Step6 - 1-Dimensional Array/BOJ4344.cpp"
         )
