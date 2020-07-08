@@ -1,2 +1,3 @@
 # Solving-algorithmic-problems
-BaekJoon, Programmers
+BaekJoon - C++
+Programmers - Python
