@@ -22,3 +22,5 @@
 |11일차|Programmers|Level2 - 멀쩡한 사각형|
 |12일차|BOJ|Step7 - Function|
 |13일차|BOJ|Step8 - String|
+|14일차|Programmers|Level2 - 124 나라의 숫자|
+|15일차|Programmers|Level2 - 가장 큰 수|
