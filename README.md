@@ -24,3 +24,7 @@
 |13일차|BOJ|Step8 - String|
 |14일차|Programmers|Level2 - 124 나라의 숫자|
 |15일차|Programmers|Level2 - 가장 큰 수|
+|16일차|Programmers|Level2 - H-index|
+|17일차|Programmers|Level2 - 피보나치 수|
+|18일차|Programmers|Level2 - 행렬의 곱셈|
+|19일차|DSC|DP|
