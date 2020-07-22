@@ -27,4 +27,5 @@
 |16일차|Programmers|Level2 - H-index|
 |17일차|Programmers|Level2 - 피보나치 수|
 |18일차|Programmers|Level2 - 행렬의 곱셈|
-|19일차|DSC|DP|
+|19일차|DSC - DP|BOJ1254, 2579|
+|20일차|DSC - DP|BOJ11054, Programmers - 타일장식물|
