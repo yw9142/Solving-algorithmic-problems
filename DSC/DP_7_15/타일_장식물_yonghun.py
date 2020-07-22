@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 # fibonacci
 
 def fibonacci(N1, N2, N):
