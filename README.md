@@ -29,4 +29,4 @@
 |18일차|Programmers|Level2 - 행렬의 곱셈|
 |19일차|DSC - DP|BOJ1254, 2579|
 |20일차|DSC - DP|BOJ11054, Programmers - 타일장식물|
-|21일차|Programmers|Level2 - N개의 최소공배수|
+|21일차|Programmers|Level2 - N개의 최소공배수, 최댓값과 최솟값|
