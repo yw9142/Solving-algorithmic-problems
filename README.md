@@ -31,3 +31,4 @@
 |20일차|DSC - DP|BOJ11054, Programmers - 타일장식물|
 |21일차|Programmers|Level2 - N개의 최소공배수, 최댓값과 최솟값|
 |22일차|Programmers|Level2 - 최솟값 만들기|
+|23일차|Programmers|Level2 - 다음 큰 숫자|
