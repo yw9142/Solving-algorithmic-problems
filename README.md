@@ -33,3 +33,4 @@
 |22일차|Programmers|Level2 - 최솟값 만들기|
 |23일차|Programmers|Level2 - 다음 큰 숫자|
 |24일차|Programmers|Level2 - 타겟 넘버|
+|25일차|Programmers|Level2 - 올바른 괄호|
