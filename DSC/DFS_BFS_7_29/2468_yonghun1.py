@@ -1,5 +1,6 @@
 # BOJ 2468 - 안전 영역
 import sys
+
 sys.setrecursionlimit(100000)
 r = sys.stdin.readline
 
@@ -9,7 +10,6 @@ dy = [0, 1, 0, -1]
 
 
 def dfs(x, y, h):
-
     for m in range(4):
         nx = x + dx[m]
         ny = y + dy[m]
@@ -24,7 +24,7 @@ zone = [list(map(int, r().split())) for i in range(N)]
 
 ans = 1
 for k in range(max(map(max, zone))):
-    visit = [[False]*N for _ in range(N)]
+    visit = [[False] * N for _ in range(N)]
     safe = 0
     for i in range(N):
         for j in range(N):
