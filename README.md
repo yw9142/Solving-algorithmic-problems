@@ -36,3 +36,4 @@
 |25일차|Programmers|Level2 - 올바른 괄호|
 |26일차|DSC - DFS/BFS|BOJ2468 - 1|
 |27일차|DSC - DFS/BFS|BOJ2468 - 2|
+|28일차|Programmers|Level2 - 예상 대진표|
