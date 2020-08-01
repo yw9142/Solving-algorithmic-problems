@@ -5,7 +5,7 @@ def solution(n):
         answer += b
     return answer
 
-# 다른 풀이
+# 다른 사람의 풀이
 # def solution(n):
 #     return bin(n).count('1')
 # 언제나 이진수로 푸는 것을 보는건 신기하다. 이런 생각을 하는 것이 대단하다.
