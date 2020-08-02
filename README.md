@@ -38,6 +38,5 @@
 |27일차|DSC - DFS/BFS|BOJ2468 - 2|
 |28일차|Programmers|Level2 - 예상 대진표|
 |29일차|Programmers|Level2 - 점프와 순간이동|
-|29일차|Programmers|Level2 - 짝지어 제거하기|
-
-
+|30일차|Programmers|Level2 - 짝지어 제거하기|
+|31일차|Programmers|Level2 - 영어 끝말잇기|
