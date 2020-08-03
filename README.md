@@ -40,3 +40,4 @@
 |29일차|Programmers|Level2 - 점프와 순간이동|
 |30일차|Programmers|Level2 - 짝지어 제거하기|
 |31일차|Programmers|Level2 - 영어 끝말잇기|
+|27일차|DSC - Greedy|BOJ1543, 2812|
