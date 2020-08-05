@@ -3,7 +3,7 @@
 ## 사용된 언어
 - **BaekJoon - C++**
 - **Programmers - Python**
-
+- **DSC - Python, C++**
 
 ## 문제 정리
 
@@ -42,3 +42,4 @@
 |31일차|Programmers|Level2 - 영어 끝말잇기|
 |32일차|DSC - Greedy|BOJ1543, 2812|
 |33일차|Programmers|Level2 - 큰 수 만들기|
+|34일차|DSC - Greedy|BOJ2352, Programmers - 구명보트|
