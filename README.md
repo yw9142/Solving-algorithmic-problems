@@ -45,4 +45,5 @@
 |34일차|DSC - Greedy|BOJ2352, Programmers - 구명보트|
 |35일차|Programmers|Level2 - 전화번호 목록|
 |36일차|Programmers|Level2 - 카펫|
-|36일차|Programmers|Level2 - 주식가격|
+|37일차|Programmers|Level2 - 주식가격|
+|38일차|Programmers|Level2 - 프린터|
