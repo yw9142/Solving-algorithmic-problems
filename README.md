@@ -47,3 +47,4 @@
 |36일차|Programmers|Level2 - 카펫|
 |37일차|Programmers|Level2 - 주식가격|
 |38일차|Programmers|Level2 - 프린터|
+|39일차|DSC - Backtracking|BOJ1759|
