@@ -48,3 +48,4 @@
 |37일차|Programmers|Level2 - 주식가격|
 |38일차|Programmers|Level2 - 프린터|
 |39일차|DSC - Backtracking|BOJ1759|
+|40일차|Programmers|LEVEL1 SQL - 최댓값 구하기|
