@@ -2,7 +2,7 @@
 
 ## 사용된 언어
 - **BaekJoon - C++**
-- **Programmers - Python**
+- **Programmers - Python, SQL**
 - **DSC - Python, C++**
 
 ## 문제 정리
@@ -49,3 +49,4 @@
 |38일차|Programmers|Level2 - 프린터|
 |39일차|DSC - Backtracking|BOJ1759|
 |40일차|Programmers|LEVEL1 SQL - 최댓값 구하기|
+|41일차|Programmers|LEVEL1 SQL - 모든 레코드 조회하기|
