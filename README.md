@@ -50,3 +50,4 @@
 |39일차|DSC - Backtracking|BOJ1759|
 |40일차|Programmers|LEVEL1 SQL - 최댓값 구하기|
 |41일차|Programmers|LEVEL1 SQL - 모든 레코드 조회하기|
+|42일차|Programmers|LEVEL1 SQL - 역순 정렬하기|
