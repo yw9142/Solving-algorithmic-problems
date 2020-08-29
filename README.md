@@ -52,3 +52,4 @@
 |41일차|Programmers|LEVEL1 SQL - 모든 레코드 조회하기|
 |42일차|Programmers|LEVEL1 SQL - 역순 정렬하기|
 |43일차|Programmers|LEVEL1 SQL - 아픈 동물 찾기|
+|44일차|Programmers|LEVEL1 SQL - 어린 동물 찾기|
