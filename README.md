@@ -54,3 +54,4 @@
 |43일차|Programmers|LEVEL1 SQL - 아픈 동물 찾기|
 |44일차|Programmers|LEVEL1 SQL - 어린 동물 찾기|
 |45일차|Programmers|LEVEL1 SQL - 동물의 아이디와 이름|
+|46일차|Programmers|LEVEL1 SQL - 이름 없는 동물의 아이디, 여러 기준으로 정렬하기|
