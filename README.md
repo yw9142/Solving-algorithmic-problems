@@ -56,3 +56,4 @@
 |45일차|Programmers|LEVEL1 SQL - 동물의 아이디와 이름|
 |46일차|Programmers|LEVEL1 SQL - 이름 없는 동물의 아이디, 여러 기준으로 정렬하기|
 |47일차|Programmers|LEVEL1 SQL - 이름 있는 동물의 아이디, 상위 N개 레코드 / Level2 - 다리를 지나는 트럭|
+|48일차|Programmers|LEVEL2 SQL - 최솟값 구하기|
