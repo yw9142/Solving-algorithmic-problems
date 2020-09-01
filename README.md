@@ -28,7 +28,7 @@
 |17일차|Programmers|Level2 - 피보나치 수|
 |18일차|Programmers|Level2 - 행렬의 곱셈|
 |19일차|DSC - DP|BOJ1254, 2579|
-|20일차|DSC - DP|BOJ11054, Programmers - 타일장식물|
+|20일차|DSC - DP|BOJ11054 / Programmers - 타일장식물|
 |21일차|Programmers|Level2 - N개의 최소공배수, 최댓값과 최솟값|
 |22일차|Programmers|Level2 - 최솟값 만들기|
 |23일차|Programmers|Level2 - 다음 큰 숫자|
@@ -42,7 +42,7 @@
 |31일차|Programmers|Level2 - 영어 끝말잇기|
 |32일차|DSC - Greedy|BOJ1543, 2812|
 |33일차|Programmers|Level2 - 큰 수 만들기|
-|34일차|DSC - Greedy|BOJ2352, Programmers - 구명보트|
+|34일차|DSC - Greedy|BOJ2352 / Programmers - 구명보트|
 |35일차|Programmers|Level2 - 전화번호 목록|
 |36일차|Programmers|Level2 - 카펫|
 |37일차|Programmers|Level2 - 주식가격|
@@ -55,3 +55,4 @@
 |44일차|Programmers|LEVEL1 SQL - 어린 동물 찾기|
 |45일차|Programmers|LEVEL1 SQL - 동물의 아이디와 이름|
 |46일차|Programmers|LEVEL1 SQL - 이름 없는 동물의 아이디, 여러 기준으로 정렬하기|
+|47일차|Programmers|LEVEL1 SQL - 이름 있는 동물의 아이디, 상위 N개 레코드 / Level2 - 다리를 지나는 트럭|
