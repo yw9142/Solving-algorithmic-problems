@@ -58,3 +58,4 @@
 |47일차|Programmers|LEVEL1 SQL - 이름 있는 동물의 아이디, 상위 N개 레코드 / Level2 - 다리를 지나는 트럭|
 |48일차|Programmers|LEVEL2 SQL - 최솟값 구하기, 동물 수 구하기|
 |49일차|Programmers|LEVEL2 SQL - 고양이와 개는 몇 마리 있을까|
+|50일차|Programmers|Level2 - 스킬트리|
