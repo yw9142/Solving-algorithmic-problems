@@ -60,3 +60,4 @@
 |49일차|Programmers|LEVEL2 SQL - 고양이와 개는 몇 마리 있을까|
 |50일차|Programmers|Level2 - 스킬트리|
 |51일차|Programmers|Level2 - 기능개발|
+|52일차|Programmers|Level2 - 더 맵게|
