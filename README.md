@@ -62,3 +62,5 @@
 |51일차|Programmers|Level2 - 기능개발|
 |52일차|Programmers|Level2 - 더 맵게|
 |53일차|Programmers|Level2 - 소수 만들기|
+|54일차|Programmers|LEVEL2 SQL - 중복 제거하기|
+
