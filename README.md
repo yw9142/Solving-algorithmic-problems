@@ -63,4 +63,4 @@
 |52일차|Programmers|Level2 - 더 맵게|
 |53일차|Programmers|Level2 - 소수 만들기|
 |54일차|Programmers|LEVEL2 SQL - 중복 제거하기|
-
+|55일차|Programmers|LEVEL2 SQL - 동명 동물 수 찾기|
