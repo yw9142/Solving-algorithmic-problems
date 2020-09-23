@@ -65,3 +65,4 @@
 |54일차|Programmers|LEVEL2 SQL - 중복 제거하기|
 |55일차|Programmers|LEVEL2 SQL - 동명 동물 수 찾기|
 |56일차|Programmers|LEVEL2 SQL - NULL 처리하기|
+|57일차|DSC - Backtracking|BOJ18428|
