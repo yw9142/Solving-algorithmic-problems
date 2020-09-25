@@ -66,3 +66,4 @@
 |55일차|Programmers|LEVEL2 SQL - 동명 동물 수 찾기|
 |56일차|Programmers|LEVEL2 SQL - NULL 처리하기|
 |57일차|DSC - Backtracking|BOJ18428|
+|58일차|Programmers|LEVEL2 SQL - 입양 시각 구하기(1), 루시와 엘라 찾기|
