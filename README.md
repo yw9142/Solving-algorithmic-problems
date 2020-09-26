@@ -67,3 +67,4 @@
 |56일차|Programmers|LEVEL2 SQL - NULL 처리하기|
 |57일차|DSC - Backtracking|BOJ18428|
 |58일차|Programmers|LEVEL2 SQL - 입양 시각 구하기(1), 루시와 엘라 찾기|
+|59일차|Programmers|LEVEL2 SQL - 이름에 el이 들어가는 동물 찾기, 중성화 여부 파악하기|
