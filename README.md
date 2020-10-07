@@ -68,3 +68,5 @@
 |57일차|DSC - Backtracking|BOJ18428|
 |58일차|Programmers|LEVEL2 SQL - 입양 시각 구하기(1), 루시와 엘라 찾기|
 |59일차|Programmers|LEVEL2 SQL - 이름에 el이 들어가는 동물 찾기, 중성화 여부 파악하기|
+|60일차|DSC - String|BOJ6635|
+|61일차|Programmers|LEVEL2 SQL - DATETIME에서 DATE로 형 변환|
