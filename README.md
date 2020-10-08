@@ -70,3 +70,4 @@
 |59일차|Programmers|LEVEL2 SQL - 이름에 el이 들어가는 동물 찾기, 중성화 여부 파악하기|
 |60일차|DSC - String|BOJ6635|
 |61일차|Programmers|LEVEL2 SQL - DATETIME에서 DATE로 형 변환|
+|62일차|Programmers|Level1 - 두개 뽑아서 더하기|
